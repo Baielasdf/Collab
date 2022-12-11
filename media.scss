@@ -1,0 +1,80 @@
+@media (max-width: 1440px) {
+  container{
+    width: 90%;
+  }
+}
+@media (max-width: 1140px) {
+}
+@media (max-width: 1024px) {
+}
+@media (max-width: 992px) {
+  #leibel .leibel {
+    flex-direction: column;
+  }
+  #project .project {
+    flex-direction: column-reverse;
+  }
+  #hero .hero {
+    flex-direction: column;
+  }
+  #leibel .leibel--text p {
+    font-size: 29px;
+  }
+  #leibel .leibel--text button {
+    padding: 20px 50px;
+  }
+  #project .project span p {
+    font-size: 32px;
+  }
+  #project .project button {
+    padding: 20px 50px;
+  }
+}
+@media (max-width: 956px) {
+}
+@media (max-width: 912px) {
+}
+@media (max-width: 876px) {
+}
+@media (max-width: 856px) {
+}
+@media (max-width: 812px) {
+}
+@media (max-width: 786px) {
+}
+@media (max-width: 756px) {
+}
+@media (max-width: 712px) {
+}
+@media (max-width: 686px) {
+}
+@media (max-width: 656px) {
+  #ryzen .ryzen--text p {
+    font-size: 25px;
+  }
+}
+@media (max-width: 612px) {
+  #leibel .leibel--text p {
+    font-size: 33px;
+  }
+}
+@media (max-width: 586px) {
+  #leibel .leibel--text p {
+    font-size: 34px;
+  }
+}
+@media (max-width: 556px) {
+}
+@media (max-width: 512px) {
+}
+@media (max-width: 486px) {
+}
+@media (max-width: 456px) {
+}
+@media (max-width: 412px) {
+  #hero .hero--hero1 button {
+    padding: 20px 30px;
+  }
+}
+@media (max-width: 386px) {
+}

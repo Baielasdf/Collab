@@ -1,0 +1,33 @@
+@mixin btn{
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #FFFFFF;
+  background: blue;
+  border-radius: 10px;
+  padding: 10px 15px;
+  &:hover{
+    transform:scale(1.1);
+    background: #080829;
+  }
+}
+@mixin sb{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+@mixin se{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+@mixin sa{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+@mixin sc{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

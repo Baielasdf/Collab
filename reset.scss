@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  width: 1140px;
+  margin: 0 auto;
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+button{
+  cursor: pointer;
+  border: none;
+}
